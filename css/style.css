@@ -419,6 +419,18 @@ margin-top: 30px;
   transition: all 0.5s ease-in-out;
   border: 2px solid #00C5CB;
 }
+.btn, .portfolio-filter li a {
+  padding: 15px 50px; /* Ajuste para um botão mais arredondado */
+  color: #FFFFFF; /* Texto branco */
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  font-size: 16px;
+  background: #9C70E1; /* Fundo roxo */
+  position: relative;
+  transition: all 0.5s ease-in-out;
+  border: none; /* Remove a borda anterior */
+  border-radius: 50px; /* Deixa o botão redondo */
+}
 .btn:after, .portfolio-filter li a:after {
   left: 0;
   top: 0;
