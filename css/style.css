@@ -404,25 +404,10 @@ footer p {
 
 /*=== 5. Button ===*/
 .btn, .portfolio-filter li a {
-  padding: 10px 50px;
-  color: #00C5CB;
-  text-transform: uppercase;
-margin-top: 30px;
-  margin-bottom: 15px;
-  font-size: 16px;
-  background: transparent;
-  position: relative;
-  -webkit-transition: all 0.5s ease-in-out;
-  -moz-transition: all 0.5s ease-in-out;
-  -ms-transition: all 0.5s ease-in-out;
-  -o-transition: all 0.5s ease-in-out;
-  transition: all 0.5s ease-in-out;
-  border: 2px solid #00C5CB;
-}
-.btn, .portfolio-filter li a {
   padding: 15px 50px; /* Ajuste para um botão mais arredondado */
   color: #FFFFFF; /* Texto branco */
   text-transform: uppercase;
+  margin-top: 30px; /* Adiciona espaçamento acima */
   margin-bottom: 15px;
   font-size: 16px;
   background: #9C70E1; /* Fundo roxo */
@@ -431,30 +416,38 @@ margin-top: 30px;
   border: none; /* Remove a borda anterior */
   border-radius: 50px; /* Deixa o botão redondo */
 }
+
+/* Efeito ao passar o mouse */
+.btn:hover, .portfolio-filter li a:hover {
+  background: #7E5AB8; /* Roxo mais escuro no hover */
+}
+
+/* Efeito visual com pseudo-elemento */
 .btn:after, .portfolio-filter li a:after {
+  content: ""; /* Garante que o pseudo-elemento funcione */
+  position: absolute;
   left: 0;
   top: 0;
   opacity: 0;
   width: 100%;
   height: 0;
-  -webkit-transition: all 0.3s ease-in-out;
-  -moz-transition: all 0.3s ease-in-out;
-  -ms-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
+  background: #00C5CB; /* Fundo turquesa ao passar o mouse */
   transition: all 0.3s ease-in-out;
-  background: #00C5CB;
 }
+
 .btn:hover:after, .portfolio-filter li a:hover:after {
   height: 100%;
   opacity: 1;
   z-index: -1;
 }
-.btn:hover, .portfolio-filter li a:hover, .btn:focus, .portfolio-filter li a:focus, .btn:active:hover, .portfolio-filter li a:active:hover {
-  color: #fff;
+
+.btn:hover, .portfolio-filter li a:hover {
+  color: #FFFFFF;
   z-index: 1;
   background: transparent;
-  border: 2px solid #00C5CB;
+  border: 2px solid #00C5CB; /* Mantém o efeito da borda */
 }
+
 
 .social-icons a, .service-area .service-content .service-icon {
   font-size: 18px;
