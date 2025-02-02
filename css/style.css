@@ -212,11 +212,11 @@ section:nth-child(even) {
   background: #00C5CB;
 }
 .navbar-main .navbar-nav li a:hover {
-  color: #00C5CB;
+  color: #d15ab8;
 }
 .navbar-main .navbar-nav li.active a, .navbar-main .navbar-nav li.active a:focus, .navbar-main .navbar-nav li.active a:hover {
   background-color: transparent;
-  color: #00C5CB;
+  color: #d15ab8;
 }
 .navbar-main .navbar-toggle .icon-bar {
   background-color: #fff;
@@ -233,7 +233,7 @@ section:nth-child(even) {
 /*=== 2.2 FOOTER ===*/
 footer .scroll-down, .banner-area a.scroll-down {
   font-size: 36px;
-  color: #00C5CB;
+  color: #d15ab8;
   position: absolute;
   bottom: 10px;
   right: 15px;
