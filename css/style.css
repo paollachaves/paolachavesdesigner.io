@@ -408,7 +408,7 @@ footer p {
   color: #FFFFFF; /* Texto branco */
   text-transform: uppercase;
   margin-top: 300px; /* Adiciona espaçamento acima */
-  margin-bottom: 15px;
+  margin-bottom: 0px;
   font-size: 16px;
   background: #9C70E1; /* Fundo roxo */
   position: relative;
