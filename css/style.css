@@ -542,8 +542,8 @@ footer p {
   display: inline-block;
   margin-bottom: 10px;
   margin-right: 0;
-  color: #d15ab8;
-  border: 1px solid #d15ab8;
+  color: #ff2cd1;
+  border: 1px solid #ff2cd1;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
@@ -551,11 +551,11 @@ footer p {
   transition: all 0.5s ease-in-out;
 }
 .service-area .service-content:hover h4 {
-  color: #d15ab8;
+  color: #ff2cd1;
 }
 .service-area .service-content:hover .service-icon {
   color: #fff;
-  background-color: #d15ab8;
+  background-color: #ff2cd1;
 }
 
 .counter-area {
@@ -569,7 +569,7 @@ footer p {
 }
 .counter-area .counter-wrap {
   padding: 10px;
-  border: 1px solid #d15ab8;
+  border: 1px solid #ff2cd1;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
@@ -577,7 +577,7 @@ footer p {
   transition: all 0.5s ease-in-out;
 }
 .counter-area .counter-wrap .counter-icon, .counter-area .counter-wrap .counter-title {
-  color: #d15ab8;
+  color: #ff2cd1;
   padding: 15px 0;
   font-size: 15px;
 }
@@ -632,7 +632,7 @@ footer p {
   margin-bottom: 50px;
 }
 .portfolio-filter li a:focus {
-  color: #d15ab8;
+  color: #ff2cd1;
 }
 .portfolio-filter li a:hover:focus {
   color: #fff;
@@ -654,7 +654,7 @@ footer p {
 }
 .portfolio-filter .active a {
   color: #fff;
-  background-color: #d15ab8;
+  background-color: #ff2cd1;
 }
 @media only screen and (max-width: 479px) {
   .portfolio-filter {
@@ -743,7 +743,7 @@ footer p {
   margin: 15px;
 }
 .testimonial-area h4 {
-  color: #d15ab8;
+  color: #ff2cd1;
 }
 .testimonial-area span {
   color: #fff;
@@ -753,7 +753,7 @@ footer p {
 }
 
 .owl-theme .owl-controls .owl-page span {
-  background: #d15ab8;
+  background: #ff2cd1;
 }
 
 /*# sourceMappingURL=style.css.map */
