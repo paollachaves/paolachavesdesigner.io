@@ -404,7 +404,7 @@ footer p {
 
 /*=== 5. Button ===*/
 .btn, .portfolio-filter li a {
-  padding: 10px 25px;
+  padding: 10px 50px;
   color: #00C5CB;
   text-transform: uppercase;
   margin-bottom: 15px;
