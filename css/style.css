@@ -617,7 +617,7 @@ footer p {
     margin-bottom: 10px;
   }
 }
-@media only screen and (max-width: 479px) {
+@media only screen and (max-width: 750px) {
   .profile-image {
     margin-bottom: 15px;
   }
