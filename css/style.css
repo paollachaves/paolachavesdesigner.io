@@ -407,7 +407,7 @@ footer p {
   padding: 15px 50px; /* Ajuste para um botão mais arredondado */
   color: #FFFFFF; /* Texto branco */
   text-transform: uppercase;
-  margin-top: 300px; /* Adiciona espaçamento acima */
+  margin-top: 200px; /* Adiciona espaçamento acima */
   margin-bottom: 10px;
   font-size: 16px;
   background: #9C70E1; /* Fundo roxo */
@@ -474,7 +474,7 @@ footer p {
   overflow-y: hidden;
   margin: 15px 0px;
   padding-top: 20px;
-  border-top: 1px solid #97CCCD;
+  border-top: 1px solid #cd97c9;
 }
 .social-icons a.facebook {
   color: #46639f;
@@ -619,7 +619,7 @@ footer p {
 }
 @media only screen and (max-width: 479px) {
   .profile-image {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
   }
 }
 
