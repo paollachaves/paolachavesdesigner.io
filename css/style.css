@@ -404,10 +404,10 @@ footer p {
 
 /*=== 5. Button ===*/
 .btn, .portfolio-filter li a {
-  padding: 15px 60px; /* Ajuste para um botão mais arredondado */
+  padding: 15px 40px; /* Ajuste para um botão mais arredondado */
   color: #FFFFFF; /* Texto branco */
   text-transform: uppercase;
-  margin-top: 200px; /* Adiciona espaçamento acima */
+  margin-top: 230px; /* Adiciona espaçamento acima */
   margin-bottom: 10px;
   font-size: 16px;
   background: #9C70E1; /* Fundo roxo */
@@ -474,7 +474,7 @@ footer p {
   overflow-y: hidden;
   margin: 15px 0px;
   padding-top: 20px;
-  border-top: 1px solid #cd97c9;
+  border-top: 1px solid #d8c2d7;
 }
 .social-icons a.facebook {
   color: #46639f;
