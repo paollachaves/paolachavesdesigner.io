@@ -404,10 +404,10 @@ footer p {
 
 /*=== 5. Button ===*/
 .btn, .portfolio-filter li a {
-  padding: 30px 50px; /* Ajuste para um botão mais arredondado */
+  padding: 15px 50px; /* Ajuste para um botão mais arredondado */
   color: #FFFFFF; /* Texto branco */
   text-transform: uppercase;
-  margin-top: 200px; /* Adiciona espaçamento acima */
+  margin-top: 300px; /* Adiciona espaçamento acima */
   margin-bottom: 10px;
   font-size: 16px;
   background: #9C70E1; /* Fundo roxo */
@@ -622,7 +622,6 @@ footer p {
     margin-bottom: 10px;
   }
 }
-
 
 /*=== 8. PORTFOLIO ===*/
 .portfolio {
