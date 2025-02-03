@@ -404,7 +404,7 @@ footer p {
 
 /*=== 5. Button ===*/
 .btn, .portfolio-filter li a {
-  padding: 15px 50px; /* Ajuste para um botão mais arredondado */
+  padding: 15px 60px; /* Ajuste para um botão mais arredondado */
   color: #FFFFFF; /* Texto branco */
   text-transform: uppercase;
   margin-top: 200px; /* Adiciona espaçamento acima */
