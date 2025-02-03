@@ -623,6 +623,30 @@ footer p {
   }
 }
 
+/* Alinhar o texto no About */
+#about .section-header {
+  text-align: none; /* Alinha o título centralizado */
+}
+
+#about .section-subtitle {
+  text-align: justify; /* Alinha o texto de descrição de forma justificada */
+  line-height: 1.8;
+}
+
+/* Alinhar o conteúdo da profile-info */
+.profile-info p {
+  text-align: justify; /* Justifica o texto para melhor leitura */
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+/* Para as Skills */
+.skill-info p {
+  text-align: justify; /* Alinha o texto das competências */
+  line-height: 1.8;
+}
+
+
 /*=== 8. PORTFOLIO ===*/
 .portfolio {
   padding-bottom: 50px;
