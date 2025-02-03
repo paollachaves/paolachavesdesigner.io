@@ -407,7 +407,7 @@ footer p {
   padding: 15px 40px;
   color: #FFFFFF;
   text-transform: uppercase;
-  margin-top: 10px; /* Ajuste padrão para todos os botões */
+  margin-top: none; /* Ajuste padrão para todos os botões */
   margin-bottom: 10px;
   font-size: 16px;
   background: #9C70E1;
