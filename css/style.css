@@ -532,7 +532,7 @@ footer p {
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
-  background: #d9d8d5;
+  background: #d498ff;
 }
 .service-area .service-content h4 {
   -webkit-transition: all 0.5s ease-in-out;
@@ -545,8 +545,8 @@ footer p {
   display: inline-block;
   margin-bottom: 10px;
   margin-right: 0;
-  color: #ff2cd1;
-  border: 1px solid #ff2cd1;
+  color: #000000;
+  border: 1px solid #000000;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
@@ -672,7 +672,7 @@ footer p {
 
 .portfolio-item {
   position: relative;
-  background: #EAE9E6;
+  background: #ffa8e9;
   margin-bottom: 30px;
   -webkit-box-shadow: 0px 0px 5px #111111;
   -moz-box-shadow: 0px 0px 5px #111111;
