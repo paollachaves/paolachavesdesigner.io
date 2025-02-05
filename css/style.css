@@ -233,7 +233,7 @@ section:nth-child(even) {
 /*=== 2.2 FOOTER ===*/
 footer .scroll-down, .banner-area a.scroll-down {
   font-size: 36px;
-  color: #d15ab8;
+  color: #ff00c8;
   position: absolute;
   bottom: 10px;
   right: 15px;
@@ -257,7 +257,7 @@ footer p {
   background-position: center center;
   height: auto;
   height: 100vh;
-  width: 90%;
+  width: 100%;
   position: relative;
   background-position: center 0px;
   padding: 0;
