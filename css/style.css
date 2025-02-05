@@ -411,7 +411,7 @@ footer p {
   margin-bottom: 10px;
   font-size: 16px;
   background: #9C70E1;
-  position: absolute;
+  position: relative;
   transition: all 0.5s ease-in-out;
   border: 2px;
   border-radius: 50px;
