@@ -740,7 +740,7 @@ footer p {
 }
 .testimonial-area img {
   display: inline-block;
-  border-radius: 100% !important;
+  border-radius: 50% !important;
 }
 .testimonial-area p {
   color: #fff;
