@@ -532,7 +532,7 @@ footer p {
   text-align: center;
   padding: 20px;
   margin-bottom: 20px;
-  background: #d498ff;
+  background: #cc85ff;
 }
 .service-area .service-content h4 {
   -webkit-transition: all 0.5s ease-in-out;
@@ -546,7 +546,7 @@ footer p {
   margin-bottom: 10px;
   margin-right: 0;
   color: #000000;
-  border: 1px solid #000000;
+  border: 1px solid #ffffff;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
@@ -554,11 +554,11 @@ footer p {
   transition: all 0.5s ease-in-out;
 }
 .service-area .service-content:hover h4 {
-  color: #ff2cd1;
+  color: #cc85ff;
 }
 .service-area .service-content:hover .service-icon {
   color: #fff;
-  background-color: #ff2cd1;
+  background-color: #cc85ff;
 }
 
 .counter-area {
@@ -672,11 +672,11 @@ footer p {
 
 .portfolio-item {
   position: relative;
-  background: #ffa8e9;
+  background: #ffffff;
   margin-bottom: 30px;
-  -webkit-box-shadow: 0px 0px 5px #111111;
-  -moz-box-shadow: 0px 0px 5px #111111;
-  box-shadow: 0px 0px 5px #111111;
+  -webkit-box-shadow: 0px 0px 5px #2b0329;
+  -moz-box-shadow: 0px 0px 5px #2b0329;
+  box-shadow: 0px 0px 5px #2b0329;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
