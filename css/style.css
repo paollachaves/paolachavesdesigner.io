@@ -209,14 +209,14 @@ section:nth-child(even) {
   -ms-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
-  background: #ff00c8;
+  background: #640096;
 }
 .navbar-main .navbar-nav li a:hover {
   color: #640096;
 }
 .navbar-main .navbar-nav li.active a, .navbar-main .navbar-nav li.active a:focus, .navbar-main .navbar-nav li.active a:hover {
   background-color: transparent;
-  color: #000000;
+  color: #640096;
 }
 .navbar-main .navbar-toggle .icon-bar {
   background-color: #fff;
