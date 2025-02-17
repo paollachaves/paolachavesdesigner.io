@@ -242,13 +242,13 @@ section:nth-child(even) {
   font-weight: 600;
   text-transform: uppercase;
   color: #fff;
-  background: #640096;
+  background: transparent;
   border-radius: 5px;
   transition: all 0.3s ease-in-out;
 }
 
 .nav-lang .btn-lang:hover {
-  background: #9c70e1;
+  background: #ffffff;
   color: #fff;
 }
 
