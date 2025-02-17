@@ -225,6 +225,11 @@ section:nth-child(even) {
   background-color: #111111;
 }
 
+.navbar-fixed {
+  background-color: #a46cf8;
+  border: none;
+}
+
 /* Estilização dos botões de idioma */
 .nav-lang {
   display: inline-block;
@@ -245,11 +250,6 @@ section:nth-child(even) {
 .nav-lang .btn-lang:hover {
   background: #9c70e1;
   color: #fff;
-}
-
-.navbar-fixed {
-  background-color: #a46cf8;
-  border: none;
 }
 
 /*=== 2.2 FOOTER ===*/
