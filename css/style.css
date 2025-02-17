@@ -428,7 +428,7 @@ footer p {
 .bnt:after, .portfolio-filter li a:after {
   content: "";
   position: absolute;
-  left: 0;
+  left: 5px;
   top: 0;
   opacity: 0;
   width: 100%;
@@ -448,7 +448,7 @@ footer p {
 .btn:hover, .portfolio-filter li a:hover, .btn:focus, .portfolio-filter li a:focus, .btn:active:hover, .portfolio-filter li a:active:hover {
   color: #fff;
   z-index: 1;
-  background: transparent;
+  background: #a46cf8;
   border: 2px solid #521aac;
 }
 
