@@ -415,13 +415,20 @@ footer p {
   border: 0px solid #9c70e1;
 }
 
+/* Aplica um espaçamento maior apenas ao primeiro botão */
 .btn:first-of-type {
-  margin-top: 100px; /* Ajuste conforme necessário */
+  margin-top: 130px; /* Espaçamento maior apenas para o primeiro botão */
+}
+
+/* Mantém os outros botões sem essa margem extra */
+.btn:not(:first-of-type) {
+  margin-top: 15px; /* Define um valor menor para os outros botões */
+  margin-bottom: 15px
 }
 
 /* Efeito ao passar o mouse */
 .bnn:hover, .portfolio-filter li a:hover {
-  background: #7e5ab8;
+  background: #641cd7;
 }
 
 /* Efeito visual com pseudo-elemento */
@@ -448,8 +455,8 @@ footer p {
 .btn:hover, .portfolio-filter li a:hover, .btn:focus, .portfolio-filter li a:focus, .btn:active:hover, .portfolio-filter li a:active:hover {
   color: #fff;
   z-index: 1;
-  background: #a46cf8;
-  border: 2px solid #521aac;
+  background: #641cd7;;
+  border: 0px solid #641cd7;;
 }
 
 .social-icons a, .service-area .service-content .service-icon {
