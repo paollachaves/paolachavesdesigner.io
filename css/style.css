@@ -225,6 +225,28 @@ section:nth-child(even) {
   background-color: #111111;
 }
 
+/* Estilização dos botões de idioma */
+.nav-lang {
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.nav-lang .btn-lang {
+  padding: 8px 12px;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #fff;
+  background: #640096;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+}
+
+.nav-lang .btn-lang:hover {
+  background: #9c70e1;
+  color: #fff;
+}
+
 .navbar-fixed {
   background-color: #a46cf8;
   border: none;
