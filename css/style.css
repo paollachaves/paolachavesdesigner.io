@@ -562,6 +562,9 @@ footer p {
   padding: 20px;
   margin-bottom: 20px;
   background: #cc85ff;
+  border-radius: 15px; /* Deixa as bordas arredondadas */
+}
+
 }
 .service-area .service-content h4 {
   -webkit-transition: all 0.5s ease-in-out;
@@ -583,7 +586,7 @@ footer p {
   transition: all 0.5s ease-in-out;
 }
 .service-area .service-content:hover h4 {
-  color: #cc85ff;
+  color: #ffffff;
 }
 .service-area .service-content:hover .service-icon {
   color: #fff;
