@@ -405,19 +405,24 @@ footer p {
 /*=== 5. Button ===*/
 .btn, .portfolio-filter li a {
   padding: 10px 25px;
-  color: #00C5CB;
+  color: #ffffff;
   text-transform: uppercase;
   margin-bottom: 15px;
   font-size: 16px;
-  background: transparent;
+  background: #9c70e1;
   position: relative;
   -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -ms-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
-  border: 2px solid #00C5CB;
+  border: 0px solid #9c70e1;
 }
+
+.btn:first-of-type {
+  margin-top: 20px; /* Ajuste conforme necessário */
+}
+
 .btn:after, .portfolio-filter li a:after {
   left: 0;
   top: 0;
@@ -429,7 +434,7 @@ footer p {
   -ms-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  background: #00C5CB;
+  background: #9c70e1;
 }
 .btn:hover:after, .portfolio-filter li a:hover:after {
   height: 100%;
