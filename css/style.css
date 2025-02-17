@@ -420,7 +420,7 @@ footer p {
 }
 
 .btn:first-of-type {
-  margin-top: 20px; /* Ajuste conforme necessário */
+  margin-top: 50px; /* Ajuste conforme necessário */
 }
 
 .btn:after, .portfolio-filter li a:after {
