@@ -428,7 +428,7 @@ footer p {
 .btn, .portfolio-filter li a {
   padding: 10px 25px;
   color: #ffffff;
-  text-transform: uppercase;
+  text-transform: cover;
   margin-bottom: 15px;
   font-size: 16px;
   background: #9c70e1;
